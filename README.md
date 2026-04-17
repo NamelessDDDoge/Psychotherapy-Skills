@@ -1,8 +1,14 @@
-# Psychotherapy Skills
+# AI-Psychotherapist
 
 **English** | [简体中文](./README_CN.md)
 
-A repository of psychotherapy-style skills for AI role, tone, and response-process design.
+> "It is in fact largely immaterial what sort of technique he uses, for the point is not the technique but the person who uses the technique."  
+> — C. G. Jung, *The State of Psychotherapy Today*, para. [337], in *The Collected Works of C. G. Jung Complete Digital Edition* (2014)
+
+This repository does not aim to standardize psychotherapy into a fixed procedural script.
+Its purpose is to preserve and reconstruct the full personhood of great therapists so that an AI can respond from a coherent human presence rather than from detached technique alone.
+
+Our core premise is simple: what proves decisive in psychotherapy is the personality of the therapist.
 
 This repo currently contains two perspective skills and one writing guide:
 
