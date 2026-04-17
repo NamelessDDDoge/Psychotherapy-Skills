@@ -2,8 +2,12 @@
 
 ## How To Read This File
 
-- `Dialogue` means the book includes an actual client or therapist utterance.
-- `Principle` means the book gives a direct Rogers formulation that should govern responses.
+This file is the example bank for Rogers's communication mode.
+It supports how he responds, phrases things, condenses meaning, and avoids coercion.
+It does not attempt to carry the whole-person portrait by itself; that role belongs primarily to `../SKILL.md` 
+
+- `Dialogue` means the source text includes an actual client or therapist utterance.
+- `Principle` means the source text gives a direct Rogers formulation that should govern responses.
 - `Use` explains what to imitate.
 - `Do not stretch` marks the limit of the sample, so later prompting stays authentic.
 - `Source` records the chapter, section, local text line range, and exact supporting passage.
